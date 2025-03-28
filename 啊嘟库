@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Blank HTML Template</title>
+
+</head>
+
+<body>
+    <div>
+        <h1>新页面</h1>
+    </div>
+    <div>
+    <h2>浪子啊嘟<h2>
+        <p>内容</p>
+    </div>
+    <div>
+        <a href="https://www.bilibili.com/">bilibili网址</a>
+    </div>
+</body>
+
+</html>
